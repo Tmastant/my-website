@@ -8,7 +8,15 @@
 body {
     font-family: Bahnschrift;
     margin: 20px;
-    background-color: aquamarine;
+    background-color: #FFFCF9;
+}
+
+h1 {
+    color: #246A73;
+}
+
+h2 {
+    color: #2CB59C;
 }
 
 ol, ul {

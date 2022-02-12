@@ -5,7 +5,11 @@ import './index.css';
 class InfoBox extends React.Component {
     render() {
       return (
-        <h1>Thomas Mastantuono - Software Engineer & Game Programmer</h1>
+          <div>
+            <h2>Hi! I'm</h2>
+            <h1>Thomas Mastantuono</h1>
+            <h2>I make games and programs</h2>
+          </div>
       );
     }
 }
