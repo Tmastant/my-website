@@ -18,7 +18,7 @@ renderSquare(i) {
 }
 
 render() {
-    const status = 'Next player: XXXXX';
+    const status = 'This is a react website';
 
     return (
     <div>
