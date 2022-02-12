@@ -19,9 +19,15 @@ h2 {
 
 #info {
     margin: auto;
-    width: 40%;
+    width: 50%;
     padding: 3%;
-    background-color: #123423;
+    margin-top: 15%;
+}
+
+#about {
+    margin: auto;
+    width: 75%;
+    padding: 10%;
 }
 
 ol, ul {
