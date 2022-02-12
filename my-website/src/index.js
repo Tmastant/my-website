@@ -18,5 +18,5 @@ class InfoBox extends React.Component {
 
 ReactDOM.render(
 <InfoBox />,
-document.getElementById('root')
+document.getElementById('info')
 );

@@ -17,6 +17,10 @@ h2 {
     color: #2CB59C;
 }
 
+#info {
+    align-self: center;
+}
+
 ol, ul {
     padding-left: 30px;
 }
