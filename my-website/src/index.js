@@ -16,10 +16,12 @@ class InfoBox extends React.Component {
 
 class About extends React.Component {
     render() {
-        <div>
-           <h2>I like to play and make games and have been doing so for a very long time</h2>
-        </div>
-    };
+        return (
+            <div>
+            <h2>I like to play and make games and have been doing so for a very long time</h2>
+            </div>
+        );
+    }
 }
 
 // ========================================
