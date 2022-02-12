@@ -2,12 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-class Square extends React.Component {
+class InfoBox extends React.Component {
     render() {
       return (
-        <button className="square">
-          {/* TODO */}
-        </button>
+        <h1>Thomas Mastantuono - Software Engineer & Game Programmer</h1>
       );
     }
 }
@@ -62,6 +60,6 @@ render() {
 // ========================================
 
 ReactDOM.render(
-<Game />,
+<InfoBox />,
 document.getElementById('root')
 );
