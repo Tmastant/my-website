@@ -19,7 +19,7 @@ class About extends React.Component {
         <div>
            <h2>I like to play and make games and have been doing so for a very long time</h2>
         </div>
-    }
+    };
 }
 
 // ========================================
@@ -33,3 +33,6 @@ ReactDOM.render(
 <About />,
 document.getElementById('about')
 );
+
+
+// https://coolors.co/fffcf9-2cb59c-246a73-02a27f-171738
